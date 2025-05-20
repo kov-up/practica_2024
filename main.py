@@ -8,3 +8,4 @@ elif b > c:
     print('b - max')
 else:
     print('c - max')
+print('min + max = ', max(a,b,c) + min(a,b,c))
